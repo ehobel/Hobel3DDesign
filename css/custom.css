@@ -15,23 +15,19 @@
 }
 
 body {
-  background-color: #301F9D;
-  color: #170C5D; 
+  background-color:#FFF057 ;
+  color: #877B00; 
 }
 
 h1 {
    font-family: "Leckerli One",cursive;
    font-weight: bold;
    font-size: 300%;
-   color: #D4CC6A;
+   color: #736A0B;
 }
 
 .navbar{
-  background-color: #807715;
-}
-
-.a {
-  background-color: #807715;
+  background-color: #E2CF12;
 }
 
 .row {
@@ -46,11 +42,6 @@ body {
 text-align: center;
 }
 
-h1 small{
-  font-size: 40%;
-  color: #FFF8AA; 
-}
-
 h5{
-  Color:white;
+  Color:black;
 }

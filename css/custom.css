@@ -1,0 +1,56 @@
+.navbar-brand {
+   padding-bottom: 75px;
+}
+
+.carousel {
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+body {
+  background-color: #AAA139;
+  color: #FFF8AA; 
+}
+
+h1 {
+   font-family: "Leckerli One",cursive;
+   font-weight: bold;
+   font-size: 300%;
+   color: #D4CC6A;
+}
+
+.navbar{
+  background-color: #807715;
+}
+
+.a {
+  background-color: #807715;
+}
+
+.row {
+  padding-bottom: 5px;
+}
+
+.b{
+  padding-left:40px;
+}
+
+body {
+text-align: center;
+}
+
+h1 small{
+  font-size: 40%;
+  color: #FFF8AA; 
+}
+
+h5{
+  Color:white;
+}

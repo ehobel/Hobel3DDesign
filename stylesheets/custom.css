@@ -1,0 +1,124 @@
+#DIV_1 {
+    color: rgb(68, 68, 68);
+    height: 160px;
+    text-align: justify;
+    width: 1200px;
+    perspective-origin: 600px 80px;
+    transform-origin: 600px 80px;
+    border: 0px none rgb(68, 68, 68);
+    font: normal normal normal normal 13px/18px Tahoma, sans-serif;
+    margin: 0px 0px 0px -30px;
+    outline: rgb(68, 68, 68) none 0px;
+}/*#DIV_1*/
+
+#DIV_1:after {
+    clear: both;
+    color: rgb(68, 68, 68);
+    display: table;
+    text-align: justify;
+    width: 1px;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(68, 68, 68);
+    font: normal normal normal normal 13px/0px Tahoma, sans-serif;
+    outline: rgb(68, 68, 68) none 0px;
+}/*#DIV_1:after*/
+
+#DIV_1:before {
+    color: rgb(68, 68, 68);
+    display: table;
+    text-align: justify;
+    width: 1px;
+}/*#DIV_1:before*/
+
+#DIV_2 {
+    color: rgb(68, 68, 68);
+    float: left;
+    height: 140px;
+    min-height: 1px;
+    text-align: center;
+    width: 1170px;
+   
+}/*#DIV_2*/
+
+#DIV_3 {
+    color: rgb(68, 68, 68);
+    height: 140px;
+    text-align: center;
+    width: 1170px;
+    
+}/*#DIV_3*/
+
+#A_4 {
+    color: rgb(205, 32, 39);
+    text-align: center;
+    text-decoration: none;
+    
+}/*#A_4*/
+
+#IMG_5 {
+    color: rgb(205, 32, 39);
+    height: 140px;
+    max-width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    width: 140px;
+   
+}/*#IMG_5*/
+
+#DIV_6 {
+    color: rgb(68, 68, 68);
+    float: left;
+    height: 20px;
+    min-height: 1px;
+    text-align: center;
+    width: 1170px;
+    
+}/*#DIV_6*/
+
+#NAV_7 {
+    color: rgb(68, 68, 68);
+    height: 20px;
+    text-align: center;
+    width: 1170px;
+    
+}/*#NAV_7*/
+
+#UL_8 {
+    color: rgb(68, 68, 68);
+    height: 20px;
+    text-align: center;
+    width: 1170px;
+   
+}/*#UL_8*/
+
+#LI_9, #LI_11, #LI_13, #LI_15, #LI_17  {
+    color: rgb(68, 68, 68);
+    display: inline;
+    height: auto;
+    text-align: center;
+    width: auto;
+    text-transform: uppercase;
+    padding: 10px;
+    
+}/*#LI_9, #LI_11, #LI_13, #LI_15, #LI_17*/
+
+#A_10, #A_12, #A_16 {
+    color: rgb(85, 85, 85);
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+}/*#A_10, #A_12, #A_16*/
+
+#A_14, #A_18 {
+    color: rgb(85, 85, 85);
+    letter-spacing: 1px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}/*#A_14, #A_18*/
+
